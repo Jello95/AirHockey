@@ -1,11 +1,11 @@
-package model;
+package froggerScrap;
 
 import java.awt.Color;
 import java.awt.event.KeyEvent;
 
+import froggerScrap.ArcadeKeys;
+import froggerScrap.FroggerGame;
 import sedgewick.StdDraw;
-import model.ArcadeKeys;
-import model.FroggerGame;
 
 public class ControlDemo implements FroggerGame {
 

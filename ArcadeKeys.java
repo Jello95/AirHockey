@@ -1,4 +1,4 @@
-package model;
+package froggerScrap;
 
 import java.awt.event.KeyEvent;
 

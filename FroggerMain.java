@@ -1,4 +1,4 @@
-package model;
+package froggerScrap;
 
 //import lab10.ControlDemo;
 /*

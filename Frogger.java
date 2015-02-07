@@ -4,16 +4,16 @@
  * ... Title/GameOver Screen(10pts), Faster Cars (10pts)
  */
 
-package model;
+package froggerScrap;
 
 import java.awt.Color;
 
+import froggerScrap.FroggerGame;
 import sedgewick.StdAudio;
 //import java.awt.event.KeyEvent;
 //import java.util.LinkedList;
 import sedgewick.StdDraw;
 //import lab10.ArcadeKeys;
-import model.FroggerGame;
 
 public class Frogger implements FroggerGame {
 	

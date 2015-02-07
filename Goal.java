@@ -1,11 +1,12 @@
-package model;
+package froggerScrap;
 
 import java.awt.Color;
 
 import sedgewick.StdDraw;
-import model.ArcadeKeys;
 
 import java.awt.event.KeyEvent;
+
+import froggerScrap.ArcadeKeys;
 
 public class Goal implements Object2 {
 	public double length;

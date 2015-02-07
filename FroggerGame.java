@@ -1,4 +1,4 @@
-package model;
+package froggerScrap;
 
 public interface FroggerGame {
 	public void playGame();

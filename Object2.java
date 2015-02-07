@@ -1,4 +1,4 @@
-package model;
+package froggerScrap;
 
 public interface Object2 {
 	public double getposX();

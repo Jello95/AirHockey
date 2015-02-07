@@ -1,12 +1,13 @@
-package model;
+package froggerScrap;
 
 import java.awt.Color;
 
 import sedgewick.StdAudio;
 import sedgewick.StdDraw;
-import model.ArcadeKeys;
 
 import java.awt.event.KeyEvent;
+
+import froggerScrap.ArcadeKeys;
 
 //import static org.junit.Assert.*;
 
